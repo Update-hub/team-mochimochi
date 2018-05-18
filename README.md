@@ -1,8 +1,11 @@
 ﻿# life-card
 人の人生を簡易的にビジュアライズするジェネレータ
 
-### 開発メンバー向け
+## Demo
 
+https://update-hub.github.io/team-mochimochi/
+
+### 開発メンバー向け
 
 #### ■ファイルの保存場所
 開発中のファイルは  
